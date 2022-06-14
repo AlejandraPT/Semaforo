@@ -1,3 +1,66 @@
+body{
+    background-color: white;
+}
+
+.palo{
+    background-color: black;
+    width: 30px;
+    height: 150px;
+    align-items: center;
+    margin: auto;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+
+.TraficLight{
+    background-color: black;
+    padding: 10px;
+    width: 150px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.semaforo{
+    margin: 50px 50px 50px 50px;
+    align-items: center;
+}
+
+.Ligth{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 15px;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.glow {
+    box-shadow: 0px 0px 9px 4px white;
+}
+
+button{
+    margin-top: 20px;
+    background-color: grey;
+    color: black;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 
 /* 
 

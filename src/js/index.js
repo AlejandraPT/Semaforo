@@ -1,4 +1,5 @@
 //import react into the bundle
+import { func } from "prop-types";
 import React from "react";
 import ReactDOM from "react-dom";
 
